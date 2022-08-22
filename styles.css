@@ -1,0 +1,40 @@
+*{
+
+    background-color: antiquewhite;
+}
+h1{
+    width:100%;
+    text-align:center;
+    color:teal;
+    border: 2px dotted green;
+
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid black;
+    margin: 0 10%;
+    }
+
+td, th {
+
+    border-top: 2px solid black;
+    padding: 5px;
+}
+
+th{
+    background-color: lightblue;
+}
+
+thead th{
+    font-size: 20px;
+    color: rgb(44, 32, 212);
+    width:15%
+}
+
+td{
+    font-size: 15px;
+    text-align: justify;
+    width:100%;
+    letter-spacing: 1.1px;
+}
